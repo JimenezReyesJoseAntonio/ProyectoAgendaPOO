@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Agenda
+comment1.params=contacto
+comment1.target=void\ agregarContacto(Contacto)
+comment2.params=nombreContacto
+comment2.target=void\ eliminarContacto(java.lang.String)
+comment3.params=nombreContacto
+comment3.target=void\ buscar(java.lang.String)
+comment4.params=
+comment4.target=void\ mostrarContactos()
+comment5.params=cambiarContacto
+comment5.target=void\ cambiarNumero(java.lang.String)
+numComments=6
